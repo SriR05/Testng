@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-14T09:39:41 IST" name="Default suite" finished-at="2022-03-14T09:40:13 IST" duration-ms="31571">
+    <groups>
+    </groups>
+    <test started-at="2022-03-14T09:39:41 IST" name="Default test" finished-at="2022-03-14T09:40:13 IST" duration-ms="31571">
+      <class name="com.Maven.TestNg.PRact">
+        <test-method signature="fB()[pri:0, instance:com.Maven.TestNg.PRact@d706f19]" started-at="2022-03-14T09:39:41 IST" name="fB" finished-at="2022-03-14T09:39:55 IST" duration-ms="13796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fB -->
+        <test-method signature="xone2()[pri:0, instance:com.Maven.TestNg.PRact@d706f19]" started-at="2022-03-14T09:39:55 IST" name="xone2" finished-at="2022-03-14T09:40:02 IST" duration-ms="6642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xone2 -->
+        <test-method signature="zZ()[pri:0, instance:com.Maven.TestNg.PRact@d706f19]" started-at="2022-03-14T09:40:02 IST" name="zZ" finished-at="2022-03-14T09:40:13 IST" duration-ms="11036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zZ -->
+      </class> <!-- com.Maven.TestNg.PRact -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
